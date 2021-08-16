@@ -1,0 +1,8 @@
+{
+  "name": "React-Clean-Architecture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/janio-miara/React-Clean-Architecture.git",
+  "author": "janio_miara <janio.miara@somoseducacao.com.br>",
+  "license": "MIT"
+}
