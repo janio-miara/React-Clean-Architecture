@@ -6,7 +6,9 @@
   "author": "janio_miara <janio.miara@somoseducacao.com.br>",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^16.6.1",
     "git-commit-msg-linter": "^3.2.8",
-    "i": "^0.3.6"
+    "i": "^0.3.6",
+    "typescript": "^4.3.5"
   }
 }
